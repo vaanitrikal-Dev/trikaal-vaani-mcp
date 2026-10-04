@@ -1,0 +1,11 @@
+{
+  "name": "trikaal-vaani-jyotish",
+  "version": "1.6.0",
+  "description": "Vedic astrology (Jyotish) by Trikaal Vaani: kundali, dasha, yog, dosha, gemstone, muhurat, Kundali Milan and Panchang — Swiss Ephemeris + classical granths (BPHS).",
+  "mcpServers": {
+    "trikaal-vaani-jyotish": {
+      "httpUrl": "https://mcp.trikalvaani.com/mcp"
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}
