@@ -5,3 +5,5 @@ This extension connects to the official Trikaal Vaani MCP server (https://mcp.tr
 Every chart tool needs the date of birth (YYYY-MM-DD), time of birth (24-hour HH:MM, local time), birthplace latitude and longitude in decimal degrees, and the UTC offset (India is 5.5).
 
 Results are free and read-only. Each result includes the matching trikalvaani.com page, where full reports and consultation with Rohiit Gupta are available. Life-span and health predictions are not offered.
+
+`shastra_search` returns references from Trikaal Vaani's classical library (granth, chapter, shloka number and a short summary) — full shloka texts and translations are not provided. `blog_search` returns full Trikaal Vaani articles with their URLs. Library and article content is licensed for personal use and learning only; commercial use and republishing are not permitted (https://mcp.trikalvaani.com/terms).
